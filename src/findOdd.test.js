@@ -10,4 +10,8 @@ describe('findOdd', () => {
   it('should return 0 for input equal to [0]', () => {
     expect(findOdd([0])).toBe(0);
   });
+  
+  it('should return 7 for input equal to [7]', () => {
+    expect(findOdd([7])).toBe(7);
+  });
 });

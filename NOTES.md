@@ -43,3 +43,4 @@ Examples
 - backlog
 - perform the 'canary' test just to check if the structure works ✅
 - it should return 0 for input equal to [0] ✅
+- it should return 7 for input equal to [7] ✅

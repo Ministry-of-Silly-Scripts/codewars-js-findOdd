@@ -1,5 +1,5 @@
-function findOdd() {
-  return 0;
+function findOdd(A) {
+  return A[0];
 }
 
 module.exports = findOdd;
