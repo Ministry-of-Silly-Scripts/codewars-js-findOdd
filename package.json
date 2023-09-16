@@ -1,7 +1,7 @@
 {
   "name": "findodd",
   "version": "1.0.0",
-  "description": "",
+  "description": "Find the odd int kata",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
