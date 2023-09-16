@@ -41,4 +41,4 @@ Examples
   - update code/test files ✅
 - domain description ✅
 - backlog
-- perform the 'canary' test just to check if the structure works
+- perform the 'canary' test just to check if the structure works ✅
