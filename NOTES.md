@@ -15,6 +15,11 @@ Examples
 
 ## Domain
 
+- array of integers
+- find one
+- appears an odd number of times
+- always be only one integer
+
 ## Rules
 
 ## Backlog
@@ -34,6 +39,6 @@ Examples
   - update NOTES ✅
   - update package.json ✅
   - update code/test files ✅
-- domain description 
+- domain description ✅
 - backlog
 - perform the 'canary' test just to check if the structure works
