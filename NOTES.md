@@ -26,6 +26,7 @@ Examples
 
 - Handle arrays of size 1
 - Handle arrays of size 2
+- Use a dictionary to track Occurrences
 
 ## Legend
 
@@ -52,3 +53,5 @@ Examples
 
 - it should return 1 for input equal to [1, 2] ✅
 - it should return 2 for input equal to [2, 1] ✅
+- it should return 1 for input equal to [1, 1, 2] ✅
+  - deleted test for arrays with length 2 since they do not make sense for the problem
