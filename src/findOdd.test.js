@@ -11,7 +11,7 @@ describe('findOdd', () => {
     expect(findOdd([0])).toBe(0);
   });
   
-  it('should return 7 for input equal to [7]', () => {
-    expect(findOdd([7])).toBe(7);
+  it('should return 1 for input equal to [1, 2]', () => {
+    expect(findOdd([1,2])).toBe(1);
   });
 });

@@ -24,6 +24,9 @@ Examples
 
 ## Backlog
 
+- Handle arrays of size 1
+- Handle arrays of size 2
+
 ## Legend
 
 - 🟩 TODO
@@ -44,3 +47,7 @@ Examples
 - perform the 'canary' test just to check if the structure works ✅
 - it should return 0 for input equal to [0] ✅
 - it should return 7 for input equal to [7] ✅
+
+### Pomodoro 2 🍅:
+
+- it should return 1 for input equal to [1, 2] ✅
