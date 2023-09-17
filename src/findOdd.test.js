@@ -18,4 +18,8 @@ describe('findOdd', () => {
   it('should return 4 for input equal to [1,2,2,3,3,3,4,3,3,3,2,2,1]', () => {
     expect(findOdd([1,2,2,3,3,3,4,3,3,3,2,2,1])).toBe(4)
   });
+
+  it('should return 0 for input equal to [0,1,0,1,0]', () => {
+    expect(findOdd([0,1,0,1,0])).toBe(0)
+  });
 });

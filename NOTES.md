@@ -56,3 +56,4 @@ Examples
 - it should return 1 for input equal to [1, 1, 2] ✅
   - deleted test for arrays with length 2 since they do not make sense for the problem
 - it should return 4 for input equal to [1,2,2,3,3,3,4,3,3,3,2,2,1] ✅
+- it should return 0 for input equal to [0,1,0,1,0] ✅
